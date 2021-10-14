@@ -69,7 +69,7 @@ public class HangManClass {
 		}
 		
 		if(found==true) {
-			System.out.println("Congratulations! You found the word!");
+			System.out.println("Congratulations! You found the word!!!");
 		}
 		else {
 			System.out.println("The word was "+ randomWords[randnum] +". Better next time");
